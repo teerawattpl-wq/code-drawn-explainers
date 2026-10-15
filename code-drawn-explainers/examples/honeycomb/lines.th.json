@@ -1,0 +1,17 @@
+{
+  "title": "ทำไมรังผึ้งเป็นหกเหลี่ยม",
+  "voices": {"Narrator": "Charon", "Unused": "Kore"},
+  "styles": {
+    "Narrator": "a warm, curious nature-documentary narrator, calm and unhurried, clear diction, speaking Thai"
+  },
+  "lines": [
+    {"speaker": "Narrator", "text": "ผึ้งไม่เคยเรียนเรขาคณิต แต่สร้างรังเป็นหกเหลี่ยมทุกช่อง ทำไมต้องหกเหลี่ยม", "style": "opening hook, quietly amazed, the question lands with a small lift"},
+    {"speaker": "Narrator", "text": "รังทำจากขี้ผึ้ง และขี้ผึ้งแพงมาก ผึ้งต้องกินน้ำผึ้งหลายกิโลกรัม เพื่อสร้างขี้ผึ้งแค่กิโลกรัมเดียว", "style": "explaining, a little emphasis on how costly it is"},
+    {"speaker": "Narrator", "text": "โจทย์ของผึ้งจึงเป็นแบบนี้ เก็บน้ำผึ้งให้มากที่สุด โดยใช้ผนังให้น้อยที่สุด", "style": "setting up a puzzle, measured, clear"},
+    {"speaker": "Narrator", "text": "วงกลมใช้ผนังน้อยที่สุด แต่วางชิดกันแล้วเหลือช่องว่าง", "style": "thoughtful, a slight letdown on the second half"},
+    {"speaker": "Narrator", "text": "รูปด้านเท่าที่ปูเต็มพื้นได้ไม่เหลือช่อง มีแค่สามแบบ สามเหลี่ยม สี่เหลี่ยม และหกเหลี่ยม", "style": "counting off the three shapes one by one, steady"},
+    {"speaker": "Narrator", "text": "ถ้าทุกช่องจุเท่ากัน สามเหลี่ยมใช้ผนังยาวที่สุด สี่เหลี่ยมรองลงมา หกเหลี่ยมใช้น้อยที่สุด", "style": "comparing, building to the winner on the last phrase"},
+    {"speaker": "Narrator", "text": "นักคณิตศาสตร์สงสัยเรื่องนี้มากว่าสองพันปี และเพิ่งพิสูจน์ได้ในปีพุทธศักราชสองพันห้าร้อยสี่สิบสอง ว่าไม่มีรูปไหนชนะหกเหลี่ยม", "style": "telling a bit of history, impressed by how long it took"},
+    {"speaker": "Narrator", "text": "มนุษย์ใช้เวลากว่าสองพันปีกว่าจะพิสูจน์ได้ ส่วนผึ้ง ทำถูกมาตลอด", "style": "closing line, warm and wry, a small pause before the last phrase"}
+  ]
+}

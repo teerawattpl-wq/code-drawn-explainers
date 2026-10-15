@@ -1,0 +1,7 @@
+{"size": [1920, 1080],
+ "voice": "../audio/narration.mp3",
+ "music": "../audio/music.wav", "musicGain": 2.0,
+ "look": "paper",
+ "scripts": ["who.js", "subs.js", "act3.js", "film.js"],
+ "puppet": "../character/parts",
+ "cast": "../character/cast"}

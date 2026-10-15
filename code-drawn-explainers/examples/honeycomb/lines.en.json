@@ -1,0 +1,17 @@
+{
+  "title": "Why Honeycomb Is Hexagonal",
+  "voices": {"Narrator": "Charon", "Unused": "Kore"},
+  "styles": {
+    "Narrator": "a warm, curious nature-documentary narrator, calm and unhurried, clear diction, speaking English"
+  },
+  "lines": [
+    {"speaker": "Narrator", "text": "Bees never studied geometry. Yet every cell they build is a hexagon. Why a hexagon?", "style": "opening hook, quietly amazed, the question lands with a small lift"},
+    {"speaker": "Narrator", "text": "The comb is made of wax. And wax is expensive. A bee has to eat many pounds of honey, to make a single pound of wax.", "style": "explaining, a little emphasis on how costly it is"},
+    {"speaker": "Narrator", "text": "So here is the bee's problem. Store as much honey as possible, using as little wall as possible.", "style": "setting up a puzzle, measured, clear"},
+    {"speaker": "Narrator", "text": "A circle needs the least wall. But pack circles together, and gaps are left over.", "style": "thoughtful, a slight letdown on the second half"},
+    {"speaker": "Narrator", "text": "Regular shapes that cover a floor with no gaps? There are only three. Triangles. Squares. And hexagons.", "style": "counting off the three shapes one by one, steady"},
+    {"speaker": "Narrator", "text": "Give every cell the same area. Triangles need the most wall. Squares come second. Hexagons need the least.", "style": "comparing, building to the winner on the last phrase"},
+    {"speaker": "Narrator", "text": "Mathematicians wondered about this for over two thousand years. It was finally proven in nineteen ninety-nine. No shape beats the hexagon.", "style": "telling a bit of history, impressed by how long it took"},
+    {"speaker": "Narrator", "text": "It took humans more than two thousand years to prove it. The bees had it right all along.", "style": "closing line, warm and wry, a small pause before the last phrase"}
+  ]
+}
